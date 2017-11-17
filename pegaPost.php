@@ -1,6 +1,6 @@
 <?php
 
-echo 'pegaPost';
+//echo 'pegaPost';
 
 //verifica se o post existe
 if($_POST) {
