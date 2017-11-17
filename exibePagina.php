@@ -1,9 +1,9 @@
 <?php
 session_start();
 
-echo 'exibe pagina';
+//echo 'exibe pagina';
 
-var_dump($_SESSION);
+//var_dump($_SESSION);
 
 if(isset($_SESSION['login'])) {
 ?>
